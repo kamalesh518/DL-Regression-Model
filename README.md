@@ -40,8 +40,8 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: MOHAMED FAIZAL M
-### Register Number: 212223243002
+### Name: Kamalesh y
+### Register Number: 212223243001
 
 python
 import torch
